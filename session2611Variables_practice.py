@@ -1,4 +1,4 @@
-#Variables practice 26 November
+#Variables practice 26 November #Also on Github
 # Variable types and initialisation
 
 price = 10 #int
