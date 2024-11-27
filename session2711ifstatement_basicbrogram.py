@@ -2,6 +2,10 @@
 
 median_price= 1000000
 
+name = input("Enter your name" )
+print("Hi",name)
+
+
 print("The minimum price to buy a house is ",median_price)
 bank_balance= int(input("Enter the balance of your bank account" ))
 
